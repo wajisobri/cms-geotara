@@ -112,7 +112,7 @@
     "react-rte": "^0.16.3",
     "react-scripts": "4.0.1",
     "react-select": "^5.7.2",
-    "react-slick": "^0.27.13",
+    "react-slick": "^0.29.0",
     "react-sparklines": "^1.7.0",
     "react-spinners": "^0.13.8",
     "react-star-ratings-component": "^1.0.1",
